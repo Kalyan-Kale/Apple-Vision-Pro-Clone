@@ -404,31 +404,31 @@ render();
 
 function files(index) {
 var data = `
-.//vision canvas images/Vision00001.png
-.//vision canvas images/Vision00002.png
-.//vision canvas images/Vision00003.png
-.//vision canvas images/Vision00004.png
-.//vision canvas images/Vision00005.png
-.//vision canvas images/Vision00006.png
-.//vision canvas images/Vision00007.png
-.//vision canvas images/Vision00008.png
-.//vision canvas images/Vision00009.png
-.//vision canvas images/Vision00010.png
-.//vision canvas images/Vision00011.png
-.//vision canvas images/Vision00012.png
-.//vision canvas images/Vision00013.png
-.//vision canvas images/Vision00014.png
-.//vision canvas images/Vision00015.png
-.//vision canvas images/Vision00016.png
-.//vision canvas images/Vision00017.png
-.//vision canvas images/Vision00018.png
-.//vision canvas images/Vision00019.png
-.//vision canvas images/Vision00020.png
-.//vision canvas images/Vision00021.png
-.//vision canvas images/Vision00022.png
-.//vision canvas images/Vision00023.png
-.//vision canvas images/Vision00024.png
-.//vision canvas images/Vision00025.png
+Vision00001.png
+Vision00002.png
+Vision00003.png
+Vision00004.png
+Vision00005.png
+Vision00006.png
+Vision00007.png
+Vision00008.png
+Vision00009.png
+Vision00010.png
+Vision00011.png
+Vision00012.png
+Vision00013.png
+Vision00014.png
+Vision00015.png
+Vision00016.png
+Vision00017.png
+Vision00018.png
+Vision00019.png
+Vision00020.png
+Vision00021.png
+Vision00022.png
+Vision00023.png
+Vision00024.png
+Vision00025.png
 `;
 return data.split("\n")[index];
 }
